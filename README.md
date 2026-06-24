@@ -1,10 +1,14 @@
-# Hi, I'm Juan 👋
+# Juan D. Parra
 
-Data & Business Analyst with a background in project management and multidisciplinary environments.
+## Data & Business Analyst | Project Intelligence | Business Intelligence
 
-I use data analytics, Business Intelligence and Machine Learning to help organizations improve decision-making, optimize processes and transform data into actionable insights.
+Bilingual professional with experience in project management and multidisciplinary environments. I leverage data analytics, Business Intelligence and Machine Learning to support decision-making, optimize business processes and transform data into actionable insights.
 
-## Areas of interest
+My background in industrial design and project execution allows me to bridge technical analysis with real-world business needs, helping organizations improve operational efficiency, reduce risks and drive business performance.
+
+---
+
+## Areas of Expertise
 
 📊 Data Analytics
 
@@ -16,11 +20,23 @@ I use data analytics, Business Intelligence and Machine Learning to help organiz
 
 🤖 AI & Business Transformation
 
-## Tools
+---
 
-Python | Pandas | NumPy | Scikit-Learn | Power BI | Plotly | APIs
+## Technical Skills
 
-## Current portfolio projects
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Plotly
+- Scikit-Learn
+- Power BI
+- APIs
+
+---
+
+## Current Portfolio Projects
 
 🚧 Revenue Intelligence for ShopSphere
 
@@ -31,5 +47,7 @@ Python | Pandas | NumPy | Scikit-Learn | Power BI | Plotly | APIs
 🚧 Automated Business Intelligence Pipeline
 
 🚧 Project Intelligence & Operations Analytics
+
+---
 
 📍 Medellín, Colombia
