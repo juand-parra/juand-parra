@@ -7,9 +7,13 @@ I use data analytics, Business Intelligence and Machine Learning to help organiz
 ## Areas of interest
 
 📊 Data Analytics
+
 📈 Business Intelligence
+
 🏗️ Project Intelligence
+
 ⚙️ Operations Analytics
+
 🤖 AI & Business Transformation
 
 ## Tools
@@ -19,9 +23,13 @@ Python | Pandas | NumPy | Scikit-Learn | Power BI | Plotly | APIs
 ## Current portfolio projects
 
 🚧 Revenue Intelligence for ShopSphere
+
 🚧 Customer Retention System for NovaTech
+
 🚧 Customer Intelligence for Retail360
+
 🚧 Automated Business Intelligence Pipeline
+
 🚧 Project Intelligence & Operations Analytics
 
 📍 Medellín, Colombia
